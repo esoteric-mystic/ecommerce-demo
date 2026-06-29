@@ -11,9 +11,6 @@ import './HeroSlider.css';
 // You would ideally import real images here
 import hero1 from '../assets/hero_shopping.png';
 import heroSmartphones from '../assets/hero_smartphones.png';
-import heroFashion from '../assets/hero_fashion.png';
-import heroHome from '../assets/hero_home.png';
-import heroFitness from '../assets/hero_fitness.png';
 
 const slides = [
     {

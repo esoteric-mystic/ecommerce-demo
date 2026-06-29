@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { useCart } from '../context/CartContext';
-import { FaStar, FaShoppingCart, FaBolt, FaTag, FaTruck, FaShieldAlt, FaUndo } from 'react-icons/fa';
+import { FaStar, FaShoppingCart, FaBolt, FaTag, FaShieldAlt } from 'react-icons/fa';
 import mockProducts from '../utils/mockProducts';
 import './ProductDetail.css';
 
@@ -20,6 +20,7 @@ const ProductDetail = () => {
 
   useEffect(() => {
     fetchProduct();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id]);
 
   const fetchProduct = async () => {

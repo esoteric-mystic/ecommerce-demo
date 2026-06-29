@@ -18,7 +18,7 @@ const Cart = () => {
   const updateQuantity = async (itemId, newQuantity) => {
     if (newQuantity < 1) return;
     try {
-      const res = await axios.put(`/api/cart/items/${itemId}`, {
+      await axios.put(`/api/cart/items/${itemId}`, {
         quantity: newQuantity
       });
       window.location.reload();

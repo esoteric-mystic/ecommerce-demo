@@ -58,7 +58,7 @@ const Checkout = () => {
         country: formData.country
       };
 
-      const res = await axios.post('/api/orders', { shippingAddress });
+      await axios.post('/api/orders', { shippingAddress });
       navigate('/orders');
     } catch (error) {
       setError(error.response?.data?.message || 'Error processing order');

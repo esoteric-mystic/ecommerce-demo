@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import axios from 'axios';
 import ProductCard from '../components/ProductCard';
-import { FaFilter, FaSortAmountDown, FaThLarge, FaList } from 'react-icons/fa';
+import { FaSortAmountDown, FaThLarge, FaList } from 'react-icons/fa';
 import './Products.css';
 
 const Products = () => {
@@ -19,6 +19,7 @@ const Products = () => {
 
   useEffect(() => {
     fetchProducts();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchParams]);
 
   const fetchProducts = async () => {

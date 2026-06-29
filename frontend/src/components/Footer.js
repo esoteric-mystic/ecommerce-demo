@@ -88,14 +88,14 @@ const Footer = () => {
                     <div className="app-download">
                         <h4>Download Our App</h4>
                         <div className="app-buttons">
-                            <a href="#" className="app-btn">
+                            <a href="/#" className="app-btn">
                                 <FaApple />
                                 <span>
                                     <small>Download on the</small>
                                     <strong>App Store</strong>
                                 </span>
                             </a>
-                            <a href="#" className="app-btn">
+                            <a href="/#" className="app-btn">
                                 <FaGooglePlay />
                                 <span>
                                     <small>Get it on</small>
