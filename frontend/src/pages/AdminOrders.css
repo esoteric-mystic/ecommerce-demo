@@ -1,0 +1,51 @@
+.order-status-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.status-select {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.status-dropdown {
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.payment-status {
+  font-size: 14px;
+}
+
+.payment-paid {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.payment-pending {
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.payment-failed {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .order-header {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .order-status-section {
+    align-items: flex-start;
+    width: 100%;
+  }
+}
+

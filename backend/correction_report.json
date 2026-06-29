@@ -1,0 +1,842 @@
+[
+  {
+    "product_id": "69689dfb5e25b3faf56ca654",
+    "product_title": "Pro X Flagship Smartphone",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/smartphone.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca655",
+    "product_title": "Studio Noise-Cancelling Headphones",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/headphones.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca656",
+    "product_title": "Titanium Smartwatch Ultra",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/smartwatch.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca657",
+    "product_title": "4K Ultra HD Smart TV 55\"",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/tv.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca658",
+    "product_title": "Professional Camera DSLR",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/dslr.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca659",
+    "product_title": "Wireless Gaming Mouse",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/mouse.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65a",
+    "product_title": "Mechanical Keyboard RGB",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/keyboard.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65b",
+    "product_title": "Portable Bluetooth Speaker",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/speaker.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65c",
+    "product_title": "Wireless Earbuds Pro",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/earbuds.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65d",
+    "product_title": "Ultra-Wide Gaming Monitor",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/monitor.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65e",
+    "product_title": "Premium Tablet Pro 12.9\"",
+    "status": "fixed",
+    "reason": "Detected mismatch/poor quality seed image. Replaced with generated pro-grade e-commerce image.",
+    "new_image_url": "/images/products/tablet.png"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca65f",
+    "product_title": "20000mAh Power Bank",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca660",
+    "product_title": "USB-C Hub 7-in-1",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4792732/pexels-photo-4792732.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca661",
+    "product_title": "HD Webcam 1080p",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4238511/pexels-photo-4238511.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca662",
+    "product_title": "Portable External SSD 1TB",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4792753/pexels-photo-4792753.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca663",
+    "product_title": "Smart Home Hub",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4790268/pexels-photo-4790268.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca664",
+    "product_title": "Wireless Charging Pad",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/7721/technology-mobile-telephone-smartphone.jpg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca665",
+    "product_title": "Action Camera 4K",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3945673/pexels-photo-3945673.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca666",
+    "product_title": "E-Reader Paperwhite",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca667",
+    "product_title": "Mini Drone with Camera",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2050718/pexels-photo-2050718.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca668",
+    "product_title": "Futuristic Running Sneakers",
+    "status": "already_correct",
+    "reason": "Verified manually or by previous script as correct.",
+    "new_image_url": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca669",
+    "product_title": "Premium Cotton Hoodie",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66a",
+    "product_title": "Classic Denim Jacket",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1457983/pexels-photo-1457983.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66b",
+    "product_title": "Slim Fit Chino Pants",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/914668/pexels-photo-914668.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66c",
+    "product_title": "Leather Chelsea Boots",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66d",
+    "product_title": "Floral Summer Dress",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66e",
+    "product_title": "Casual Linen Shirt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca66f",
+    "product_title": "Classic Polo Shirt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca670",
+    "product_title": "Winter Puffer Jacket",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/7691068/pexels-photo-7691068.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca671",
+    "product_title": "Essential Cotton T-Shirt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5698851/pexels-photo-5698851.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca672",
+    "product_title": "Comfortable Joggers",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4498155/pexels-photo-4498155.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca673",
+    "product_title": "Formal Blazer Slim Fit",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca674",
+    "product_title": "Athletic Sports Shorts",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3490360/pexels-photo-3490360.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca675",
+    "product_title": "Woolen Cable Knit Sweater",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6770028/pexels-photo-6770028.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca676",
+    "product_title": "Elegant Maxi Skirt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca677",
+    "product_title": "Cargo Pants Utility",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca678",
+    "product_title": "Athletic Leggings",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca679",
+    "product_title": "Waterproof Raincoat",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4872508/pexels-photo-4872508.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67a",
+    "product_title": "Oxford Button-Down Shirt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/769732/pexels-photo-769732.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67b",
+    "product_title": "Traditional Cotton Kurta",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/8347499/pexels-photo-8347499.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67c",
+    "product_title": "Artisan Coffee Maker",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67d",
+    "product_title": "Japanese Chef Knife Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/952478/pexels-photo-952478.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67e",
+    "product_title": "Modern Ceramic Vase",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca67f",
+    "product_title": "Smart Air Purifier",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca680",
+    "product_title": "Luxury Cotton Bed Sheets",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3773571/pexels-photo-3773571.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca681",
+    "product_title": "Cast Iron Skillet",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4252364/pexels-photo-4252364.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca682",
+    "product_title": "Robot Vacuum Cleaner",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4108715/pexels-photo-4108715.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca683",
+    "product_title": "Electric Kettle Premium",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4397886/pexels-photo-4397886.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca684",
+    "product_title": "High-Speed Blender",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4397865/pexels-photo-4397865.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca685",
+    "product_title": "Stainless Steel Toaster",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4551619/pexels-photo-4551619.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca686",
+    "product_title": "Non-Stick Cookware Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4259140/pexels-photo-4259140.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca687",
+    "product_title": "Instant Pressure Cooker",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3338673/pexels-photo-3338673.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca688",
+    "product_title": "Digital Rice Cooker",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca689",
+    "product_title": "Stand Mixer Professional",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5824879/pexels-photo-5824879.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68a",
+    "product_title": "RO Water Purifier",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1458671/pexels-photo-1458671.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68b",
+    "product_title": "Induction Cooktop",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3338681/pexels-photo-3338681.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68c",
+    "product_title": "Food Storage Container Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4397913/pexels-photo-4397913.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68d",
+    "product_title": "Bone China Dinner Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6270293/pexels-photo-6270293.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68e",
+    "product_title": "Modern Table Lamp",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca68f",
+    "product_title": "Decorative Wall Clock",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/707582/pexels-photo-707582.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca690",
+    "product_title": "Classic Leather Wallet",
+    "status": "already_correct",
+    "reason": "Verified manually or by previous script as correct.",
+    "new_image_url": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca691",
+    "product_title": "Canvas Travel Tote",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1204464/pexels-photo-1204464.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca692",
+    "product_title": "Minimalist Watch",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca693",
+    "product_title": "Premium Laptop Backpack",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca694",
+    "product_title": "Silk Scarf Collection",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4947788/pexels-photo-4947788.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca695",
+    "product_title": "Designer Sunglasses",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca696",
+    "product_title": "Genuine Leather Belt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca697",
+    "product_title": "Silk Tie Collection",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/45056/pexels-photo-45056.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca698",
+    "product_title": "Pearl Drop Earrings",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca699",
+    "product_title": "Gold Pendant Necklace",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1395306/pexels-photo-1395306.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69a",
+    "product_title": "Beaded Bracelet Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69b",
+    "product_title": "Premium Phone Case",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69c",
+    "product_title": "Leather Keychain",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4638866/pexels-photo-4638866.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69d",
+    "product_title": "Cotton Headband Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1191536/pexels-photo-1191536.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69e",
+    "product_title": "Wool Beanie Cap",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1868735/pexels-photo-1868735.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca69f",
+    "product_title": "Leather Touchscreen Gloves",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/45057/pexels-photo-45057.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a0",
+    "product_title": "Automatic Umbrella",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/1486861/pexels-photo-1486861.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a1",
+    "product_title": "Leather Passport Holder",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5442463/pexels-photo-5442463.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a2",
+    "product_title": "Canvas Messenger Bag",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2422476/pexels-photo-2422476.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a3",
+    "product_title": "Crossbody Phone Bag",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5711897/pexels-photo-5711897.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a4",
+    "product_title": "Radiance Skincare Set",
+    "status": "already_correct",
+    "reason": "Verified manually or by previous script as correct.",
+    "new_image_url": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a5",
+    "product_title": "Aromatherapy Diffuser",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a6",
+    "product_title": "Professional Hair Dryer",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a7",
+    "product_title": "Luxury Perfume Collection",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a8",
+    "product_title": "Gentle Foam Face Wash",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621462/pexels-photo-6621462.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6a9",
+    "product_title": "SPF 50 Sunscreen Lotion",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5938416/pexels-photo-5938416.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6aa",
+    "product_title": "Moisturizing Lip Balm Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4041387/pexels-photo-4041387.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ab",
+    "product_title": "Volumizing Mascara",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2637820/pexels-photo-2637820.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ac",
+    "product_title": "Liquid Foundation",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2688991/pexels-photo-2688991.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ad",
+    "product_title": "Nail Polish Set 12 Colors",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3997373/pexels-photo-3997373.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ae",
+    "product_title": "Sheet Mask Variety Pack",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6af",
+    "product_title": "Nourishing Body Lotion",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621460/pexels-photo-6621460.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b0",
+    "product_title": "Hair Repair Serum",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/8467971/pexels-photo-8467971.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b1",
+    "product_title": "Beard Grooming Kit",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3998421/pexels-photo-3998421.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b2",
+    "product_title": "Professional Makeup Brush Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b3",
+    "product_title": "Anti-Aging Eye Cream",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621466/pexels-photo-6621466.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b4",
+    "product_title": "Exfoliating Face Scrub",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621483/pexels-photo-6621483.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b5",
+    "product_title": "Hydrating Facial Toner",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621470/pexels-photo-6621470.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b6",
+    "product_title": "Daily Moisturizer SPF 30",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621489/pexels-photo-6621489.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b7",
+    "product_title": "Intensive Hand Cream",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6621479/pexels-photo-6621479.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b8",
+    "product_title": "Eco-Friendly Yoga Mat",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6b9",
+    "product_title": "Adjustable Dumbbell Pair",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ba",
+    "product_title": "Organic Protein Powder",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6bb",
+    "product_title": "Smart Fitness Tracker",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6bc",
+    "product_title": "Resistance Bands Set",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6bd",
+    "product_title": "Speed Jump Rope",
+    "status": "already_correct",
+    "reason": "Verified manually or by previous script as correct.",
+    "new_image_url": "https://images.pexels.com/photos/4498152/pexels-photo-4498152.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6be",
+    "product_title": "High-Density Foam Roller",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/6551097/pexels-photo-6551097.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6bf",
+    "product_title": "Cast Iron Kettlebell 16kg",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4164512/pexels-photo-4164512.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c0",
+    "product_title": "Anti-Burst Exercise Ball",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3822906/pexels-photo-3822906.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c1",
+    "product_title": "Doorframe Pull-Up Bar",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4164454/pexels-photo-4164454.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c2",
+    "product_title": "Adjustable Weight Bench",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4164513/pexels-photo-4164513.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c3",
+    "product_title": "Padded Cycling Shorts",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5807539/pexels-photo-5807539.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c4",
+    "product_title": "Anti-Fog Swimming Goggles",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c5",
+    "product_title": "Professional Tennis Racket",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c6",
+    "product_title": "Badminton Set Complete",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c7",
+    "product_title": "Official Size Football",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c8",
+    "product_title": "Indoor/Outdoor Basketball",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6c9",
+    "product_title": "Slim Running Belt",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6ca",
+    "product_title": "Adjustable Ankle Weights",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/4498610/pexels-photo-4498610.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "product_id": "69689dfb5e25b3faf56ca6cb",
+    "product_title": "Sports Gym Bag",
+    "status": "already_correct",
+    "reason": "Image matched category/description (verified via Pexels/Updates)",
+    "new_image_url": "https://images.pexels.com/photos/5698440/pexels-photo-5698440.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]

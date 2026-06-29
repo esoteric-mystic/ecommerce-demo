@@ -1,0 +1,218 @@
+/* TrendHive - Premium Hero Slider Design */
+
+.hero-slider-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* Swiper Customization */
+.hero-swiper {
+    width: 100%;
+    height: 600px;
+    /* Increased height for impact */
+}
+
+@media (max-width: 768px) {
+    .hero-swiper {
+        height: 500px;
+    }
+}
+
+.hero-swiper .swiper-slide {
+    overflow: hidden;
+}
+
+.swiper-slide-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0;
+    position: relative;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+/* Dark Gradient Overlay for Readability */
+.slide-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(15, 23, 42, 0.9) 0%, rgba(15, 23, 42, 0.7) 40%, rgba(15, 23, 42, 0.2) 100%);
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.slide-text {
+    max-width: 650px;
+    color: white;
+    z-index: 10;
+    position: relative;
+}
+
+/* Animations using global keyframes where possible, or specific ones here */
+.slide-tag {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: var(--accent);
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 24px;
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards 0.2s;
+}
+
+.slide-text h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 24px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards 0.4s;
+    background: linear-gradient(to right, #ffffff, #94a3b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.slide-text p {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+    color: var(--text-light);
+    /* Slate 200 equivalent */
+    line-height: 1.7;
+    font-weight: 400;
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards 0.6s;
+    max-width: 500px;
+}
+
+/* Action Button */
+.btn-shop-now {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--accent);
+    color: white;
+    padding: 16px 40px;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all var(--transition-normal);
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards 0.8s;
+    box-shadow: 0 4px 20px var(--accent-glow);
+}
+
+.btn-shop-now:hover {
+    background: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px var(--accent-glow);
+}
+
+.btn-arrow {
+    transition: transform var(--transition-fast);
+}
+
+.btn-shop-now:hover .btn-arrow {
+    transform: translateX(4px);
+}
+
+/* Swiper Pagination */
+.hero-swiper .swiper-button-prev,
+.hero-swiper .swiper-button-next {
+    color: white;
+    opacity: 0.5;
+    transition: opacity 0.3s;
+}
+
+.hero-swiper .swiper-button-prev:hover,
+.hero-swiper .swiper-button-next:hover {
+    opacity: 1;
+}
+
+.hero-swiper .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    opacity: 1;
+    transition: all 0.3s;
+}
+
+.hero-swiper .swiper-pagination-bullet-active {
+    width: 32px;
+    border-radius: 5px;
+    background: var(--accent);
+}
+
+/* Responsive Text */
+@media (max-width: 992px) {
+    .slide-text h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .slide-overlay {
+        padding: 0 6%;
+    }
+
+    .slide-text h1 {
+        font-size: 2.25rem;
+        margin-bottom: 16px;
+    }
+
+    .slide-text p {
+        font-size: 1rem;
+        margin-bottom: 24px;
+    }
+
+    .btn-shop-now {
+        padding: 12px 28px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Promotional Strip */
+.promo-strip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 24px;
+    background: white;
+    border-bottom: 1px solid var(--border-color);
+    flex-wrap: wrap;
+}
+
+.promo-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--text-main);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.promo-icon {
+    font-size: 1.5rem;
+    background: var(--bg-surface);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--accent);
+}

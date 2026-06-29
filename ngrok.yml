@@ -1,0 +1,8 @@
+version: "3"
+agent:
+  authtoken: 38KO9c0irpl07DZTGzi3U6zpElC_5AbNSTJRkaZ7cTG8kVJew
+tunnels:
+  shopping-site:
+    proto: http
+    addr: 3000
+    hostname: venerational-delphine-colonizable.ngrok-free.dev

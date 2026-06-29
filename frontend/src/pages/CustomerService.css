@@ -1,0 +1,268 @@
+.cs-container {
+    min-height: 100vh;
+    background: #f1f3f6;
+    padding-bottom: 60px;
+}
+
+.cs-header {
+    background: linear-gradient(135deg, #2874f0 0%, #1e5dcc 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.cs-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.cs-header p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.cs-content {
+    display: flex;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Sidebar */
+.cs-sidebar {
+    width: 250px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cs-tab {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 15px 20px;
+    background: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.cs-tab:hover {
+    color: #2874f0;
+    transform: translateX(5px);
+}
+
+.cs-tab.active {
+    background: #2874f0;
+    color: white;
+    font-weight: 500;
+}
+
+/* Main Content */
+.cs-main {
+    flex: 1;
+    background: white;
+    border-radius: 12px;
+    padding: 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.cs-section h2 {
+    font-size: 24px;
+    color: #212121;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+/* FAQs */
+.faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.faq-item {
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #fafafa;
+}
+
+.faq-item h4 {
+    color: #2874f0;
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.faq-item p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Contact */
+.contact-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.contact-card {
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    transition: all 0.3s;
+}
+
+.contact-card:hover {
+    border-color: #2874f0;
+    box-shadow: 0 5px 15px rgba(40, 116, 240, 0.1);
+}
+
+.icon-wrapper {
+    width: 60px;
+    height: 60px;
+    background: #e8efff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #2874f0;
+    margin: 0 auto 15px;
+}
+
+.contact-link {
+    display: block;
+    margin-top: 5px;
+    color: #2874f0;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.contact-form-wrapper {
+    background: #fafafa;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.cs-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.form-row {
+    display: flex;
+    gap: 15px;
+}
+
+.cs-form input,
+.cs-form textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.cs-form input:focus,
+.cs-form textarea:focus {
+    outline: none;
+    border-color: #2874f0;
+}
+
+.cs-submit-btn {
+    padding: 12px;
+    background: #ff9f00;
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s;
+    width: fit-content;
+    align-self: flex-start;
+}
+
+.cs-submit-btn:hover {
+    background: #f59600;
+    transform: translateY(-2px);
+}
+
+/* Policies */
+.policy-block {
+    margin-bottom: 30px;
+}
+
+.policy-block h3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    color: #212121;
+}
+
+.policy-block ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #555;
+    line-height: 1.8;
+}
+
+/* Animations */
+.slide-in {
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .cs-content {
+        flex-direction: column;
+        padding: 0 15px;
+    }
+
+    .cs-sidebar {
+        width: 100%;
+        flex-direction: row;
+        overflow-x: auto;
+        padding-bottom: 10px;
+    }
+
+    .cs-tab {
+        flex-shrink: 0;
+        white-space: nowrap;
+    }
+
+    .contact-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .form-row {
+        flex-direction: column;
+    }
+}

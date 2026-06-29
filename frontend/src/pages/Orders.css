@@ -1,0 +1,406 @@
+/* Flipkart-Style Orders Page */
+.orders-page {
+    padding: 70px 0 40px;
+    min-height: 100vh;
+    background: #f1f3f6;
+}
+
+.orders-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+/* Orders Header */
+.orders-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    animation: fadeIn 0.3s ease;
+}
+
+.orders-title {
+    font-size: 18px;
+    font-weight: 500;
+    color: #212121;
+}
+
+/* Search/Filter */
+.orders-search {
+    display: flex;
+    gap: 16px;
+}
+
+.orders-search input {
+    padding: 10px 16px;
+    border: 1px solid #c2c2c2;
+    border-radius: 2px;
+    font-size: 14px;
+    width: 250px;
+}
+
+.orders-search input:focus {
+    outline: none;
+    border-color: #2874f0;
+}
+
+/* Filter Tabs */
+.order-filters {
+    display: flex;
+    gap: 0;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 16px;
+    overflow-x: auto;
+    animation: fadeIn 0.3s ease 0.1s backwards;
+}
+
+.order-filter {
+    padding: 16px 24px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #212121;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.order-filter:hover {
+    color: #2874f0;
+}
+
+.order-filter.active {
+    color: #2874f0;
+    border-bottom-color: #2874f0;
+}
+
+/* Orders List */
+.orders-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.order-card {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    animation: slideInUp 0.3s ease backwards;
+}
+
+.order-card:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.order-card:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+.order-card:nth-child(3) {
+    animation-delay: 0.15s;
+}
+
+.order-card:nth-child(4) {
+    animation-delay: 0.2s;
+}
+
+/* Order Item */
+.order-item {
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+    border-bottom: 1px solid #f0f0f0;
+    transition: all 0.2s ease;
+}
+
+.order-item:last-child {
+    border-bottom: none;
+}
+
+.order-item:hover {
+    background: #fafafa;
+}
+
+.order-item-image {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+    padding: 8px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order-item-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.order-item-details {
+    flex: 1;
+    min-width: 0;
+}
+
+.order-item-name {
+    font-size: 14px;
+    color: #212121;
+    margin-bottom: 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.order-item-name:hover {
+    color: #2874f0;
+}
+
+.order-item-qty {
+    font-size: 14px;
+    color: #878787;
+    margin-bottom: 8px;
+}
+
+.order-item-price {
+    font-size: 14px;
+    font-weight: 500;
+    color: #212121;
+}
+
+/* Order Status */
+.order-status {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+    min-width: 200px;
+}
+
+.status-indicator {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+.status-indicator.delivered .status-dot {
+    background: #388e3c;
+}
+
+.status-indicator.delivered {
+    color: #388e3c;
+}
+
+.status-indicator.cancelled .status-dot {
+    background: #ff6161;
+}
+
+.status-indicator.cancelled {
+    color: #ff6161;
+}
+
+.status-indicator.processing .status-dot {
+    background: #2874f0;
+}
+
+.status-indicator.processing {
+    color: #2874f0;
+}
+
+.status-indicator.shipped .status-dot {
+    background: #ff9f00;
+}
+
+.status-indicator.shipped {
+    color: #ff9f00;
+}
+
+.status-date {
+    font-size: 12px;
+    color: #878787;
+}
+
+/* Order Actions */
+.order-actions {
+    display: flex;
+    gap: 16px;
+    margin-top: 12px;
+}
+
+.order-action-btn {
+    padding: 8px 16px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.order-action-btn.primary {
+    background: #2874f0;
+    color: #fff;
+    border: none;
+}
+
+.order-action-btn.primary:hover {
+    background: #1a5dc0;
+}
+
+.order-action-btn.secondary {
+    background: #fff;
+    color: #2874f0;
+    border: 1px solid #2874f0;
+}
+
+.order-action-btn.secondary:hover {
+    background: #f5f8ff;
+}
+
+/* Rating Stars */
+.rate-product {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 12px;
+}
+
+.rate-label {
+    font-size: 12px;
+    color: #878787;
+}
+
+.rate-stars {
+    display: flex;
+    gap: 4px;
+}
+
+.rate-star {
+    width: 24px;
+    height: 24px;
+    color: #e0e0e0;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.rate-star:hover,
+.rate-star.filled {
+    color: #ff9f00;
+    fill: #ff9f00;
+}
+
+/* Empty Orders */
+.no-orders {
+    text-align: center;
+    padding: 80px 40px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    animation: fadeIn 0.3s ease;
+}
+
+.no-orders svg {
+    width: 140px;
+    height: 140px;
+    color: #f0f0f0;
+    margin-bottom: 24px;
+}
+
+.no-orders h2 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #212121;
+    margin-bottom: 12px;
+}
+
+.no-orders p {
+    font-size: 14px;
+    color: #878787;
+    margin-bottom: 24px;
+}
+
+.shop-now-btn {
+    display: inline-block;
+    padding: 14px 48px;
+    background: #2874f0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 2px;
+    transition: all 0.2s ease;
+}
+
+.shop-now-btn:hover {
+    background: #1a5dc0;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .orders-page {
+        padding: 60px 0 20px;
+    }
+
+    .orders-header {
+        flex-direction: column;
+        gap: 16px;
+        align-items: stretch;
+    }
+
+    .orders-search input {
+        width: 100%;
+    }
+
+    .order-item {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .order-item-image {
+        width: 80px;
+        height: 80px;
+    }
+
+    .order-status {
+        align-items: flex-start;
+        min-width: auto;
+    }
+}
